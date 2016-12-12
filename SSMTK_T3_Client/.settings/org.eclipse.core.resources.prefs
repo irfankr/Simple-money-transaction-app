@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/home.jsp=UTF-8
+encoding//WebContent/WEB-INF/provjerakorisnika.jsp=UTF-8
+encoding//src/controller/LoginHandler.java=UTF-8
+encoding//src/controller/MainController.java=UTF-8
